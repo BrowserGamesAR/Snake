@@ -18,5 +18,5 @@ Version:0.1.0
 
 
 ### المطورين
-* علا @olawb مطور رئيسي
-* عمر @oalamoud مشرف على التطوير
+* علا (@olawb)[https://github.com/olawb] مطور رئيسي
+* عمر (@oalamoud)[https://github.com/oalamoud] مشرف على التطوير
